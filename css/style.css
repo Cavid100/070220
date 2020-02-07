@@ -1,0 +1,17 @@
+.w-100{
+    display: block;
+    width: 100%;
+}
+.color{
+    background-color: darkcyan;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 3px;
+}
+.G63{
+    font-size: 12px;
+    color: gray;
+}
+.w-50{
+    color: aqua;
+}
